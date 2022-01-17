@@ -1,0 +1,2 @@
+<?php echo $__env->make('core/base::forms.partials.tree-category', ['className' => 'file-tree file-list'], \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
+<?php /**PATH D:\wamp64\www\immo\platform/core/base/resources/views//forms/partials/tree-categories.blade.php ENDPATH**/ ?>
